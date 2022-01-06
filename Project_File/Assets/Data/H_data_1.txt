@@ -1,0 +1,18 @@
+덤벨컬,트라이셉스 익스텐션,
+3.8% support :: len : 3
+덤벨컬,하이 풀리 컬,
+3.8% support :: len : 3
+벤치 딥스,덤벨컬,
+5.1% support :: len : 4
+덤벨컬,리스트 컬,
+5.1% support :: len : 4
+덤벨컬,리버스 컬,
+3.8% support :: len : 3
+케이블 풀오버,덤벨컬,
+3.8% support :: len : 3
+비하인드 랫풀다운,덤벨컬,
+3.8% support :: len : 3
+덤벨컬,바벨컬,
+3.8% support :: len : 3
+덤벨 킥 백,덤벨컬,
+3.8% support :: len : 3
